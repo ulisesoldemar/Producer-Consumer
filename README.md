@@ -1,5 +1,5 @@
 # Productor-Consumidor
-Simple animación para representar el problema del 2.0.1
+Simple animación para representar el problema del Productor-Consumidor
 ## Requerimientos
 * Python 3.7+
 * Pygame 2.0.1
